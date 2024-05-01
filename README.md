@@ -1,2 +1,2 @@
 # twitter-clone
-Build a fake tweeter follow with Kyle.
+Build a fake twitter follow with Kyle.
